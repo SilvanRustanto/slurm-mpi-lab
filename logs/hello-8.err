@@ -1,0 +1,6 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd-silvan-HP-ProBook-430-G3: error: *** STEP 8.1 ON silvan-HP-ProBook-430-G3 CANCELLED AT 2026-09-29T15:27:37 ***
+slurmstepd-silvan-HP-ProBook-430-G3: error: *** JOB 8 ON silvan-HP-ProBook-430-G3 CANCELLED AT 2026-09-29T15:27:37 ***
+srun: forcing job termination
+srun: error: silvan-HP-ProBook-430-G3: task 0: Terminated

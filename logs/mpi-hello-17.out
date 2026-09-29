@@ -1,0 +1,5 @@
+Hello from rank 0 of 4 on silvan-HP-ProBook-430-G3
+Hello from rank 1 of 4 on silvan-HP-ProBook-430-G3
+Hello from rank 2 of 4 on silvan-HP-ProBook-430-G3
+Hello from rank 3 of 4 on silvan-HP-ProBook-430-G3
+CHECK ranks=4 sum=6 expected=6
